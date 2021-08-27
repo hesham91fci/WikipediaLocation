@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.2.0)
+  - BottomSheet (1.0.6)
+  - CocoaLumberjack (3.7.2):
+    - CocoaLumberjack/Core (= 3.7.2)
+  - CocoaLumberjack/Core (3.7.2)
+  - Kingfisher/Core (5.15.3)
+  - Kingfisher/SwiftUI (5.15.3):
+    - Kingfisher/Core
+  - SVGKit (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+  - SwiftLint (0.39.2)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2)
+  - BottomSheet (from `https://github.com/weitieda/bottom-sheet.git`, tag `1.0.6`)
+  - Kingfisher/SwiftUI (= 5.15.3)
+  - SVGKit (= 3.0.0)
+  - SwiftLint (~> 0.39.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaLumberjack
+    - Kingfisher
+    - SVGKit
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  BottomSheet:
+    :git: https://github.com/weitieda/bottom-sheet.git
+    :tag: 1.0.6
+
+CHECKOUT OPTIONS:
+  BottomSheet:
+    :git: https://github.com/weitieda/bottom-sheet.git
+    :tag: 1.0.6
+
+SPEC CHECKSUMS:
+  Alamofire: c1ca147559e730bfb2182c8c7aafbdd90a867987
+  BottomSheet: 0a164143e34470cc332db0ce4e55d6da202d7ac6
+  CocoaLumberjack: b7e05132ff94f6ae4dfa9d5bce9141893a21d9da
+  Kingfisher: 2fef2f4d9e809285aff7f6195b5290520904f3fa
+  SVGKit: 1ad7513f8c74d9652f94ed64ddecda1a23864dea
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+
+PODFILE CHECKSUM: 71140392b85fe139c90d3187bc1cb99f49555019
+
+COCOAPODS: 1.10.0

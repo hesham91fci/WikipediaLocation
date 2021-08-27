@@ -1,0 +1,21 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "pages": {
+            "-1": {
+                "ns": 6,
+                "title": "File:ModernEgypt, Farouk & Farida Marriage, DHP13655-21-4 01.jpg",
+                "missing": "",
+                "known": "",
+                "imagerepository": "shared",
+                "imageinfo": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/ModernEgypt%2C_Farouk_%26_Farida_Marriage%2C_DHP13655-21-4_01.jpg",
+                        "descriptionurl": "https://commons.wikimedia.org/wiki/File:ModernEgypt,_Farouk_%26_Farida_Marriage,_DHP13655-21-4_01.jpg",
+                        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6359030"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "pages": {
+            "18806750": {
+                "pageid": 18806750,
+                "ns": 0,
+                "title": "Töölö Sports Hall",
+                "contentmodel": "wikitext",
+                "pagelanguage": "en",
+                "pagelanguagehtmlcode": "en",
+                "pagelanguagedir": "ltr",
+                "touched": "2021-08-24T20:13:31Z",
+                "lastrevid": 1031479935,
+                "length": 5059,
+                "fullurl": "https://en.wikipedia.org/wiki/T%C3%B6%C3%B6l%C3%B6_Sports_Hall",
+                "editurl": "https://en.wikipedia.org/w/index.php?title=T%C3%B6%C3%B6l%C3%B6_Sports_Hall&action=edit",
+                "canonicalurl": "https://en.wikipedia.org/wiki/T%C3%B6%C3%B6l%C3%B6_Sports_Hall",
+                "description": "Sports venue in Helsinki, Finland",
+                "descriptionsource": "local",
+                "images": [
+                    {
+                        "ns": 6,
+                        "title": "File:Basketball pictogram.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Boxing pictogram.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Commons-logo.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Gymnastics (artistic) pictogram.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:OOjs UI icon edit-ltr-progressive.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Töölön Kisahalli.jpg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Weightlifting pictogram.svg"
+                    },
+                    {
+                        "ns": 6,
+                        "title": "File:Wrestling pictogram.svg"
+                    }
+                ],
+                "original": {
+                    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/T%C3%B6%C3%B6l%C3%B6n_Kisahalli.jpg",
+                    "width": 800,
+                    "height": 536
+                }
+            }
+        }
+    }
+}
